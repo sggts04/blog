@@ -1,7 +1,7 @@
 ---
 layout: basic
 title: "About Me"
-date: 2021-10-20T15:15:34+10:00
+date: 2021-10-20T15:15:34+05:30
 permalink: "/about/"
 description: "Student, Tech Lover and Programmer"
 image: "https://github.com/sggts04.png"

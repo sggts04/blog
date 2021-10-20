@@ -1,4 +1,4 @@
-baseurl: "/blog/"
+baseurl: "blog/"
 permalink: pretty
 title: "Shreyas Gupta"
 collections_dir: collections

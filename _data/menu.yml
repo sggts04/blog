@@ -6,5 +6,5 @@ main:
     url: "/blog/"
     weight: 2
   - name: "About"
-    url: "/about/"
+    url: "/blog/about/"
     weight: 3

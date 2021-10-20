@@ -1,7 +1,8 @@
 ---
+layout: post
 title: "Hello World"
 date: 2021-10-14T14:49:03+05:30
-layout: post
+authors: ["Shreyas Gupta"]
 categories: ["General"]
 description: The start of my blog, first post of many to come!
 thumbnail: "https://c.tenor.com/wHtFgOXljcUAAAAC/despicable-me-minions.gif"

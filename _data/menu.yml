@@ -1,10 +1,10 @@
 main:
   - name: "Home"
-    url: "/"
+    url: "https://shreyasgupta.in"
     weight: 1
   - name: "Blog"
-    url: "/blog/"
+    url: "/"
     weight: 2
   - name: "About"
-    url: "/blog/about/"
+    url: "/about/"
     weight: 3

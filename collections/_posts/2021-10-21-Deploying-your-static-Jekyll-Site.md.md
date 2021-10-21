@@ -20,7 +20,7 @@ First thing you need to think about is which hosting service you want to use. I 
 
 ## Netlify
 
-Netlify is quite literally the most straightforward tool for our usecase, the configuration file is the smallest and easiest to understand aswell. Here's the `netlify.toml` file that you'll need in your repository to have Netlify to do a Jekyll deployment for you:
+Netlify is quite literally the most straightforward tool for our usecase, the configuration file is the smallest and easiest to understand aswell. Here's the `netlify.toml` file that you'll need in your repository to have Netlify do a Jekyll deployment for you:
 
 ```toml
 [build]

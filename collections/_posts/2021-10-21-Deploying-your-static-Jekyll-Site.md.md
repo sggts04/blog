@@ -79,7 +79,7 @@ deploy
   on:
     branch: master
 ```
-*Credits for this config file goes to [Ayush Gupta](https://ayushgupta.me/blog/2021/10/20/deploy-jekyll-to-github-pages-using-travis-ci.html#create-your-travis-configuration-file)*
+*Credits for this config file go to [Ayush Gupta](https://ayushgupta.me/blog/2021/10/20/deploy-jekyll-to-github-pages-using-travis-ci.html#create-your-travis-configuration-file)*
 
 Now just open Travis, create a project and follow the default steps. All your commits will get built to `gh-pages` branch and you can setup Github Pages to use that branch for hosting. Here the custom domain/HTTPS features will be configured through Github Pages settings in your repo.
 

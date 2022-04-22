@@ -5,8 +5,8 @@ date: 2021-10-21T12:28:03+05:30
 authors: ["Shreyas Gupta"]
 categories: ["Github", "Jekyll", "Hosting/Deployment"]
 description: When hosting your own static site/blog with Jekyll, you'll have many options on how to implement continuous deployment for it, here we take a look at three of the popular options - Netlify, Github Actions with Pages, and Travis CI with Pages
-thumbnail: "https://www.aleksandrhovhannisyan.com/assets/images/posts/github-pages-vs-netlify/thumbnail-1280.jpeg"
-image: "https://www.aleksandrhovhannisyan.com/assets/images/posts/github-pages-vs-netlify/thumbnail-1280.jpeg"
+thumbnail: "https://i.imgur.com/uUiPdwY.png"
+image: "https://i.imgur.com/uUiPdwY.png"
 ---
 
 As I started to set up my blog, I was certain on using a Jekyll template given how simple and popular it was for such a usecase. However what I was not clear on was how exactly to setup the deployment for it. There are certain templates like [Jekyll Now](https://github.com/barryclark/jekyll-now) which work out of the box with Github Pages and don't require a deployment pipeline, however **most good templates** like [TeXt Theme](https://github.com/kitian616/jekyll-TeXt-theme) **require you to continously build and deploy the site**. This was also the case with the template I was considering using, which is the one you're viewing right now.

@@ -9,7 +9,7 @@ thumbnail: "https://i.imgur.com/aAmvsSR.jpg"
 image: "https://i.imgur.com/aAmvsSR.jpg"
 ---
 
-Shifting houses is making me realize the amount of junk I own. Like that portable blender I thought would magically make me lose weight while instead it ended up gaining weight itself from all the dust its been eating since being used just twice. It did come with its life lessons. It taught me how putting badam into a blender does not give you a badam shake.
+Shifting houses is making me realize the amount of junk I own. Like that portable blender that I thought would magically make me lose weight. Instead ended up gaining its own weight from all the dust its been eating since being used just twice. It did come with its life lessons. It taught me how putting badam into a blender does not give you a badam shake.
 
 What is it about these products that seems so enticing when you are buying them yet you never feel like using them? I think its the difference between who you want to be versus who you actually are. Do the money saving people not have aspirations, or are they already who they want to be? Some say they’re putting their dreams on hold but till when? When do the fun times begin when mindless spending is justified?
 

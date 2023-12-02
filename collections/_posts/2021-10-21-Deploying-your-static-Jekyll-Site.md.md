@@ -3,7 +3,7 @@ layout: post
 title: "Deploying your static Jekyll Site: Netlify vs Github Actions vs Travis CI"
 date: 2021-10-21T12:28:03+05:30
 authors: ["Shreyas Gupta"]
-categories: ["Github", "Jekyll", "Hosting/Deployment"]
+categories: ["Development", "Hosting"]
 description: When hosting your own static site/blog with Jekyll, you'll have many options on how to implement continuous deployment for it, here we take a look at three of the popular options - Netlify, Github Actions with Pages, and Travis CI with Pages
 thumbnail: "https://i.imgur.com/uUiPdwY.png"
 image: "https://i.imgur.com/uUiPdwY.png"

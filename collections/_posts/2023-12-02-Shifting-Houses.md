@@ -5,8 +5,8 @@ date: 2023-12-02T11:09:03+05:30
 authors: ["Shreyas Gupta"]
 categories: ["General"]
 description: Excerpts from my house-shifting experience
-thumbnail: "https://i.imgur.com/YWZRTgQ.jpg"
-image: "https://i.imgur.com/YWZRTgQ.jpg"
+thumbnail: "https://i.imgur.com/aAmvsSR.jpg"
+image: "https://i.imgur.com/aAmvsSR.jpg"
 ---
 
 Shifting houses is making me realize the amount of junk I own. Like that portable blender I thought would magically make me lose weight while instead it ended up gaining weight itself from all the dust its been eating since being used just twice. It did come with its life lessons. It taught me how putting badam into a blender does not give you a badam shake.

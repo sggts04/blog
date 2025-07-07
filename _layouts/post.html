@@ -38,7 +38,12 @@ layout: default
     {% endif %}
 
       <div class="md:block">
-        <p><strong>Views:</strong> <span id="view-count">Loading...</span></p>
+        <p><strong>Views:</strong>
+          <img
+            src="https://hitscounter.dev/count/{{ site.url }}{{ page.url }}"
+            alt="Page view count"
+          />
+        </p>
       </div>
   </div>
 
@@ -60,12 +65,3 @@ layout: default
     </div>
   </div>
 {% endif %} 
-
-<script>
-  const key = "blog-{{ page.url | slugify }}";
-  fetch(`https://api.countapi.xyz/hit/sggts04.blog/${key}`)
-    .then(res => res.json())
-    .then(data => {
-      document.getElementById("view-count").innerText = data.value + " views";
-    });
-</script>

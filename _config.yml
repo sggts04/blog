@@ -4,6 +4,7 @@ title: "Shreyas Gupta"
 collections_dir: collections
 markdown: kramdown
 highlighter: rouge
+url: "https://blog.shreyasgupta.in"
 
 sass:
   indentWidth: 4

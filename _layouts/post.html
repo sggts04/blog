@@ -38,10 +38,10 @@ layout: default
     {% endif %}
 
       <div class="md:block">
-        <p><strong>Views:</strong>
+        <p>
           <img
-            src="https://hitscounter.dev/count/{{ site.url }}{{ page.url }}"
-            alt="Page view count"
+              src="https://hitscounter.dev/api/hit?url={{ site.url }}{{ page.url | uri_escape }}&label=Views&icon=people-fill&color=%23198754&message=&style=for-the-badge&tz=Asia%2FKolkata"
+              alt="View counter"
           />
         </p>
       </div>

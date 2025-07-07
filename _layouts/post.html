@@ -36,6 +36,10 @@ layout: default
         {% endfor %}
       </div>
     {% endif %}
+
+      <div class="md:block">
+        <p><strong>Views:</strong> <span id="view-count">Loading...</span></p>
+      </div>
   </div>
 
   <div class="w-full md:w-9/12">
@@ -56,3 +60,12 @@ layout: default
     </div>
   </div>
 {% endif %} 
+
+<script>
+  const key = "blog-{{ page.url | slugify }}";
+  fetch(`https://api.countapi.xyz/hit/sggts04.blog/${key}`)
+    .then(res => res.json())
+    .then(data => {
+      document.getElementById("view-count").innerText = data.value + " views";
+    });
+</script>

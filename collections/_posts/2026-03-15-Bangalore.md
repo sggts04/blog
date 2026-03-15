@@ -15,7 +15,7 @@ First bite, and I threw them away. I've had Peri-Peri Banana Chips before, but t
 
 No matter who the outlier was, it worked. The company's goal was to sell the chips, not what happens to them after that. They caught me at my weakest moment, when I was ready to have a snack. Unfortunately, I am always ready to have a snack.
 
-I went to a Punjabi restaurant in Bangalore. What an oxymoron. There are no Punjabi restaurants in Bangalore, there are only disappointments. So I got an appointment for disappointment yesterday, and what a shocker, I was dissappointed. Don't you hate the feeling when you eat junk food and its not even good? My stomach was full of soya chaap and my face was full of tears. Not sure how this restaurant was rated 4.2 on Google Maps. Was I the outlier again?
+I went to a Punjabi restaurant in Bangalore. What an oxymoron. There are no Punjabi restaurants in Bangalore, there are only disappointments. So I got an appointment for disappointment yesterday, and what a shocker, I was disappointed. Don't you hate the feeling when you eat junk food and its not even good? My stomach was full of soya chaap and my face was full of tears. Not sure how this restaurant was rated 4.2 on Google Maps. Was I the outlier again?
 
 Bangalore has the vibe that makes you want to run a startup. People have built very successful startups by selling food whose names remind you of your home, but whose taste remind you of your home's dustbin.
 

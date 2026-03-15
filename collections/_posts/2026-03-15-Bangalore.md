@@ -21,7 +21,7 @@ Bangalore has the vibe that makes you want to run a startup. People have built v
 
 It is my fault, of course, for trying to look for familiarity at an unfamiliar place. 
 
-I've been in Bangalore for almost 6 months now, and during this time I've flown to Delhi 5 times now, sometimes voluntarily, sometimes involuntarily. Everytime I come back, I go on a run to eat at my favourite Bangalore places again. Not on a literal run. I only ran in Gurgaon's 500 AQI and lost the interest when I came to see Bangalore's clear air. I am not even kidding about this. I was a runner in Gurgaon and completely stopped in Bangalore, maybe I am the stupid outlier.
+I've been in Bangalore for almost 6 months now, and during this time I've flown back to Delhi 5 times, sometimes voluntarily, sometimes involuntarily. Everytime I come back to Bangalore, I go on a run to eat at my favourite Bangalore places again. Not on a literal run. I only ran in Gurgaon's 500 AQI and lost the interest when I came to see Bangalore's clear air. I am not even kidding about this. I was a runner in Gurgaon and completely stopped in Bangalore, maybe I am the stupid outlier.
 
 These favourite Bangalore places are starting to become my new comfort food, with Meghana Foods and Nagarjuna being the top 2 picks. Biryani at Meghana is an easy choice, but with Nagarjuna, who would've thought I would go to a restaurant to eat dal chawal and absolutely love it. That is literally all I eat there, I order the entire Bhojanam meal and only eat 2 out of the 10 items served on the banana leaf. I love dal chawal. It is familiarity at an unfamiliar place.
 

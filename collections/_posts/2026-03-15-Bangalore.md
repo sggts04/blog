@@ -25,11 +25,11 @@ I've been in Bangalore for almost 6 months now, and during this time I've flown 
 
 These favourite Bangalore places are starting to become my new comfort food, with Meghana Foods and Nagarjuna being the top 2 picks. Biryani at Meghana is an easy choice, but with Nagarjuna, who would've thought I would go to a restaurant to eat dal chawal and absolutely love it. That is literally all I eat there, I order the entire Bhojanam meal and only eat 2 out of the 10 items served on the banana leaf. I love dal chawal. It is familiarity at an unfamiliar place.
 
-Bangalore's traffic is tremendously bad with no signs of recovery, just like this blog which can't seem to find a good ending. The bad traffic has trained the rapido drivers to be stupidly rash drivers. They are rash out of necessity, not out of a lack of will to live. I even got into an accident thanks to such drivers.
+Bangalore's traffic is tremendously bad with no signs of recovery, just like this blog which can't seem to find a good ending. The bad traffic has trained the Rapido drivers to be stupidly rash drivers. They are rash out of necessity, not out of a lack of will to live. I even got into an accident thanks to such drivers.
 
 Unfortunately, or fortunately, I've learned to live with all of this. Not because of the good weather, how can it be good weather when it can rain whenever it wants and you'll either not get an auto in that rain or be stuck in traffic in that rain. I've still not understood how this is good weather. Am I the outlier again?
 
-But the city has grown on me, I am a techie after all, when your rapido driver discusses tech stacks with you, you feel familiarity. Late night filter coffee hauls have become a natural thing. Overhearing startup pitches on the next Third Wave Coffee table makes me want to attempt one too.
+But the city has grown on me, I am a techie after all, when your Rapido driver discusses tech stacks with you, you feel familiarity. Late night filter coffee hauls have become a natural thing. Overhearing startup pitches on the next Third Wave Coffee table makes me want to attempt one too.
 
 First I was confused. Then I was disappointed. But somewhere along the way, a meal on a banana leaf started to feel like comfort food.
 

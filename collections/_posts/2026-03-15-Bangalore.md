@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bangalore"
-date: 2026-15-03T22:28:03+05:30
+date: 2026-03-15T22:28:03+05:30
 authors: ["Shreyas Gupta"]
 categories: ["General"]
 description: Looking for familiarity at an unfamiliar place

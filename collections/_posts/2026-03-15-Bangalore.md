@@ -27,7 +27,7 @@ These favourite Bangalore places are starting to become my new comfort food, wit
 
 Bangalore's traffic is tremendously bad with no signs of recovery, just like this blog which can't seem to find a good ending. The bad traffic has trained the rapido drivers to be stupidly rash drivers. They are rash out of necessity, not out of a lack of will to live. I even got into an accident thanks to such drivers.
 
-Unfortunately, or fortunately, I've learned to live with all of this. Not because of the good weather, how can it be good weather when it can rain whenever it wnats and you'll either not get an auto in that rain or be stuck in traffic in that rain. I've still not understood how this is good weather. Am I the outlier again?
+Unfortunately, or fortunately, I've learned to live with all of this. Not because of the good weather, how can it be good weather when it can rain whenever it wants and you'll either not get an auto in that rain or be stuck in traffic in that rain. I've still not understood how this is good weather. Am I the outlier again?
 
 But the city has grown on me, I am a techie after all, when your rapido driver discusses tech stacks with you, you feel familiarity. Late night filter coffee hauls have become a natural thing. Overhearing startup pitches on the next Third Wave Coffee table makes me want to attempt one too.
 
